@@ -16,5 +16,11 @@ nav ul li a {
 
 }
 
+.contact form {
+    display:flex
+    flex-direction;
+    gap: 10px;
+    max-width: auto;
+}
 
 
