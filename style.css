@@ -3,7 +3,7 @@ nav ul {
     display: flex;
     justify-content: center;
     background-color: aliceblue;
-    padding:  10px;
+    padding:  100px;
     margin: 0;
 }
 nav ul li {
@@ -13,4 +13,5 @@ nav ul li a {
     text-decoration: none;
     color: rgb(40, 70, 90);
     font-weight: bold;
+
 }
