@@ -1,6 +1,6 @@
 nav ul {
     list-style: none;
-    display: flex;
+    display: block;
     justify-content: center;
     background-color: aliceblue;
     padding:  20px;
@@ -15,4 +15,5 @@ nav ul li a {
     font-weight: bold;
 
 }
+
 
